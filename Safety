@@ -14,7 +14,7 @@
 
     <section>
         <h3>Fire Alarm</h3>
-        <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+        <img src="c:\Users\150084870\Pictures\fire alarm.png" alt="Fire Alarm" width="500" height="250">
         <p>A fire alarm in a smart home offers advanced safety features:Detection: It senses smoke, heat, and carbon monoxide with high accuracy.
             Connectivity: Connected to your Wi-Fi or smart home hub, it communicates with other devices.
             Notifications: Alerts you with loud sounds and smartphone notifications; can notify emergency contacts.
@@ -26,13 +26,13 @@
 
     <section>
         <h3>Water:Ceiling Walls</h3>
-        <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+        <img src="c:\Users\150084870\Pictures\water ceiling walls.png" alt="water ceiling walls" width="500" height="250">
         <p>Water ceiling walls in a smart home serve as a safety protocol designed to protect against water damage and flooding. Here's how they work: Detection: Sensors embedded in the ceiling walls detect leaks or water intrusion early, identifying potential problems before they cause significant damage. Automatic Response: Upon detecting a leak, the system can automatically shut off the main water supply to prevent further flooding. Alerts: The system sends notifications to your smartphone or smart devices, alerting you to the issue and providing real-time updates on the situation. Integration: It can be connected with other smart home systems, such as activating water shut-off valves, turning off electricity in affected areas to prevent electrical hazards, or sending alerts to emergency contacts. Monitoring and Control: Through a smartphone app or smart home hub, you can monitor the status of the water ceiling walls, receive maintenance reminders, and check for any issues remotely. Proactive Maintenance: Some systems can perform self-diagnoses and alert you to potential issues before they become serious problems. Overall, water ceiling walls enhance safety by preventing water damage and providing quick responses to leaks, integrating seamlessly with your smart home ecosystem for comprehensive protection.</p>
     </section>
 
     <section>
         <h3>Water Rats</h3>
-        <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+        <img src="c:\Users\150084870\Pictures\water robot rats.png" alt="Water rats" width="500" height="250">
         <p>In a smart home, "water rats" refer to specialized smart devices designed to assist with fire suppression by using water. Here’s how they work: Detection: These devices are equipped with sensors to detect the presence of fire or extreme heat. They can often integrate with smoke alarms or fire detection systems for more accurate and timely response. Activation: Upon detecting a fire, the water rats automatically activate and release a controlled spray or mist of water. This helps to suppress or extinguish the flames effectively.
             Integration: They work in conjunction with other smart home systems, such as triggering smart fire alarms or notifying emergency services, to coordinate a comprehensive response.
             Remote Monitoring: Through a smartphone app or smart home hub, you can monitor the status of the water rats, check for any issues, and receive alerts if they are activated.
@@ -42,7 +42,7 @@
 
     <section>
         <h3>Robots With A Green Chemical</h3>
-        <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+        <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="250">
         <p>In a smart home, robots equipped with green chemicals enhance safety by:Detection: They use sensors to detect fires or hazards.
             Chemical Dispensing: They deploy eco-friendly chemicals to suppress fires or neutralize threats.
             Automatic Operation: Robots navigate autonomously to address emergencies.
@@ -53,7 +53,7 @@
 
     <section>
         <h3>20 Snakes (venom: green froth)</h3>
-        <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+        <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="250">
         <p>In a smart home, 20 snakes equipped with green froth venom can be used as a unique safety protocol. Here’s a brief description of how they function: Detection: These snakes have sensors to detect potential hazards, such as intruders or specific environmental conditions that trigger their activation.
             Green Froth Venom: When activated, they release a green froth venom designed to immobilize or deter threats. This venom is non-lethal and safe for use indoors, providing a temporary barrier or deterrent.
             Automatic Deployment: The snakes autonomously move to the location of the detected threat and deploy the venom. They can navigate through the home using pre-set paths or real-time sensors.
@@ -62,3 +62,5 @@
             Safety: The green froth is designed to be safe for people and pets, providing a non-toxic method to handle emergencies or secure areas.
             Overall, these snakes offer an advanced, innovative approach to home security and emergency management, combining detection, deterrence, and integration with smart home systems.</p>
     </section>
+
+    </html>
