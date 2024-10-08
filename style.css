@@ -1,0 +1,36 @@
+body {
+  margin: 15px;
+}
+
+main {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  background-color: #dec7c5;
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  align-content: center;
+}
+
+.navbar a:hover {
+  background-color: #c6afad;
+}
+
+.navbar li {
+  float: left;
+}
+
+.footer {
+  background-color: #ab8885;
+}
