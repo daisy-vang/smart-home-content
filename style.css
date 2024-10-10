@@ -64,6 +64,7 @@ main {
 .footer-heading-2 {
   display: flex;
   flex-direction: column;
+  align-items: center;
   margin-bottom: 2rem;
 }
 
@@ -101,3 +102,266 @@ main {
 .img {
   width: 100%;
 }
+
+.rectangle-1 {
+  height: 70px;
+  width: 2015px;
+  background-color: #cadde3;
+  border-style: solid;
+  border-color: #9fb5bc;
+  z-index: -1;
+  position: absolute;
+}
+
+.rectangle-2 {
+  height: 70px;
+  width: 2015px;
+  background-color: #cadde3;
+  border-style: solid;
+  border-color: #9fb5bc;
+  z-index: -1;
+  position: absolute;
+  top: 100%;
+  transform: translate(0%,70%);
+}
+
+.rectangle-3 {
+  height: 70px;
+  width: 2015px;
+  background-color: #cadde3;
+  border-style: solid;
+  border-color: #9fb5bc;
+  z-index: -1;
+  position: absolute;
+  top: 100%;
+  transform: translate(0%,180%);
+}
+
+.title-details {
+transform: translate(22%);
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.title-below {
+  display: flex;
+  justify-content: center;
+}
+
+.auto-tech {
+  display: flex;
+  justify-content: center;
+}
+
+.rectangle-4 {
+  height: 395px;
+  width: 2015px;
+  background-color: #cadde3;
+  border-style: solid;
+  border-color: #9fb5bc;
+  z-index: -1;
+  position: absolute;
+  transform: translate(0%, 10%);
+}
+
+.brain {
+  transform: translate(45%, 250%);
+  font-size: 30px;
+}
+
+.brain-p {
+  transform: translate(43%, -1200%);
+  font-size: 25px;
+}
+
+.img-brain {
+  transform: translate(0%, -8.5%);
+}
+
+.rectangle-5 {
+  height: 395px;
+  width: 2015px;
+  background-color: #cadde3;
+  border-style: solid;
+  border-color: #9fb5bc;
+  z-index: -1;
+  position: absolute;
+  transform: translate(0%, 149.5%);
+}
+
+.memory-tapes {
+  transform: translate(45%, 250%);
+  font-size: 30px;
+}
+
+.memory-p {
+  transform: translate(43%, -1200%);
+  font-size: 25px;
+}
+
+.memory-p-2 {
+  transform: translate(43%, -1200%);
+  font-size: 25px;
+}
+
+.img-memory {
+  transform: translate(0%, -7%);
+}
+
+.rectangle-6 {
+  height: 395px;
+  width: 2015px;
+  background-color: #cadde3;
+  border-style: solid;
+  border-color: #9fb5bc;
+  z-index: -1;
+  position: absolute;
+  transform: translate(0%, 290%);
+}
+
+.self {
+  transform: translate(45%, 250%);
+  font-size: 30px;
+}
+
+.self-p {
+  transform: translate(43%, -1200%);
+  font-size: 25px;
+}
+
+.img-self {
+  transform: translate(0%, -18.5%);
+}
+
+.self-p-2 {
+  transform: translate(43%, -1200%);
+  font-size: 25px;
+}
+
+.automated-convenience {
+  display: flex;
+  justify-content: center;
+}
+
+.automated-cleaning {
+  display: flex;
+  justify-content: center;
+}
+
+.rectangle-7 {
+  height: 700px;
+  width: 600px;
+  background-color: #cadde3;
+  border-style: solid;
+  border-color: #9fb5bc;
+  z-index: -1;
+  position: absolute;
+  transform: translate(5%, 10%);
+}
+
+.rectangle-8 {
+  height: 700px;
+  width: 600px;
+  background-color: #cadde3;
+  border-style: solid;
+  border-color: #9fb5bc;
+  z-index: -1;
+  position: absolute;
+  transform: translate(117%, 10%);
+}
+
+.rectangle-9 {
+  height: 700px;
+  width: 600px;
+  background-color: #cadde3;
+  border-style: solid;
+  border-color: #9fb5bc;
+  z-index: -1;
+  position: absolute;
+  transform: translate(229%, 10%);
+}
+
+.rectangle-10 {
+  height: 700px;
+  width: 600px;
+  background-color: #cadde3;
+  border-style: solid;
+  border-color: #9fb5bc;
+  z-index: -1;
+  position: absolute;
+  transform: translate(5%, 120%);
+}
+
+.rectangle-11 {
+  height: 700px;
+  width: 600px;
+  background-color: #cadde3;
+  border-style: solid;
+  border-color: #9fb5bc;
+  z-index: -1;
+  position: absolute;
+  transform: translate(117%, 120%);
+}
+
+.rectangle-12 {
+  height: 700px;
+  width: 600px;
+  background-color: #cadde3;
+  border-style: solid;
+  border-color: #9fb5bc;
+  z-index: -1;
+  position: absolute;
+  transform: translate(229%, 120%);
+}
+
+.rectangle-13 {
+  height: 700px;
+  width: 600px;
+  background-color: #cadde3;
+  border-style: solid;
+  border-color: #9fb5bc;
+  z-index: -1;
+  position: absolute;
+  transform: translate(5%, 230%);
+}
+
+.rectangle-14 {
+  height: 700px;
+  width: 600px;
+  background-color: #cadde3;
+  border-style: solid;
+  border-color: #9fb5bc;
+  z-index: -1;
+  position: absolute;
+  transform: translate(117%, 230%);
+}
+
+.rectangle-15 {
+  height: 700px;
+  width: 600px;
+  background-color: #cadde3;
+  border-style: solid;
+  border-color: #9fb5bc;
+  z-index: -1;
+  position: absolute;
+  transform: translate(229%, 230%);
+}
+
+.img-clock {
+  position: absolute;
+  transform: translate(15%, 15%);
+}
+
+.clock {
+  font-size: 30px;
+  transform: translate();
+}
+
+.img-alarm {
+  position: absolute;
+  transform: translate(152%, -5%);
+}
+
