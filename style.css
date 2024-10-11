@@ -249,6 +249,7 @@ transform: translate(22%);
 .automated-cleaning {
   display: flex;
   justify-content: center;
+  transform: translate(0%, 900%);
 }
 
 .rectangle-7 {
@@ -357,11 +358,188 @@ transform: translate(22%);
 
 .clock {
   font-size: 30px;
-  transform: translate();
+  transform: translate(12%, 1550%);
+}
+
+.clock-p, .clock-p-2, .clock-p-3 {
+  transform: translate(3%, 1750%);
+  font-size: 25px;
 }
 
 .img-alarm {
   position: absolute;
-  transform: translate(152%, -5%);
+  transform: translate(152%, -42.8%);
 }
 
+.alarm {
+  font-size: 30px;
+  transform: translate(36.5%, 880%);
+}
+
+.alarm-p, .alarm-p-2, .alarm-p-3 {
+  transform: translate(36.5%, 950%);
+  font-size: 25px;
+}
+
+.img-stove {
+  position: absolute;
+  transform: translate(287.5%, -100%);
+}
+
+.stove {
+  font-size: 30px;
+  transform: translate(79%, 210%);
+}
+
+.stove-p, .stove-p-2, .stove-p-3 {
+  font-size: 25px;
+  transform: translate(70.5%, 149%);
+}
+
+.img-weather {
+  position: absolute;
+  transform: translate(15%, 35%);
+}
+
+.box {
+  font-size: 30px;
+  transform: translate(12%, 1790%);
+}
+
+.box-p, .box-p-2, .box-p-3 {
+  transform: translate(3%, 2030%);
+  font-size: 25px;
+}
+
+.img-doors {
+  position: absolute;
+  transform: translate(152%, -23%);
+}
+
+.doors {
+  font-size: 30px;
+  transform: translate(46%, 1145%);
+}
+
+.doors-p, .doors-p-2, .doors-p-3 {
+  transform: translate(36.5%, 1250%);
+  font-size: 25px;
+}
+
+.img-table {
+  position: absolute;
+  transform: translate(287.5%, -80%);
+}
+
+.table {
+  font-size: 30px;
+  transform: translate(79%, 470%);
+}
+
+.table-p, .table-p-2, .table-p-3 {
+  font-size: 25px;
+  transform: translate(70.5%, 470%);
+}
+
+.img-bed-warmers {
+  position: absolute;
+  transform: translate(15%, 55%);
+}
+
+.beds {
+  font-size: 30px;
+  transform: translate(12%, 2020%);
+}
+
+.beds-p, .beds-p-2, .beds-p-3 {
+  transform: translate(3%, 2350%);
+  font-size: 25px;
+}
+
+.img-bath {
+  position: absolute;
+  transform: translate(152%, -4%);
+}
+
+.baths {
+  font-size: 30px;
+  transform: translate(48%, 1330%);
+}
+
+.baths-p, .baths-p-2, .baths-p-3 {
+  transform: translate(36.5%, 1480%);
+  font-size: 25px;
+}
+
+.img-sprinklers {
+  position: absolute;
+  transform: translate(287.5%, -62%);
+}
+
+.sprink {
+  font-size: 30px;
+  transform: translate(79%, 660%);
+}
+
+.sprink-p, .sprink-p-2, .sprink-p-3 {
+  font-size: 25px;
+  transform: translate(70.5%, 700%);
+}
+
+.img-dish, .img-mice, .img-incen, .img-rat {
+  transform: translate(0%, 90%);
+}
+
+.rectangle-16 {
+  height: 395px;
+  width: 2015px;
+  background-color: #cadde3;
+  border-style: solid;
+  border-color: #9fb5bc;
+  z-index: -1;
+  position: absolute;
+  transform: translate(0%, 108%);
+}
+
+.rectangle-17 {
+  height: 395px;
+  width: 2015px;
+  background-color: #cadde3;
+  border-style: solid;
+  border-color: #9fb5bc;
+  z-index: -1;
+  position: absolute;
+  transform: translate(0%, 252%);
+}
+
+.rectangle-18 {
+  height: 395px;
+  width: 2015px;
+  background-color: #cadde3;
+  border-style: solid;
+  border-color: #9fb5bc;
+  z-index: -1;
+  position: absolute;
+  transform: translate(0%, 392%);
+}
+
+.rectangle-19 {
+  height: 395px;
+  width: 2015px;
+  background-color: #cadde3;
+  border-style: solid;
+  border-color: #9fb5bc;
+  z-index: -1;
+  position: absolute;
+  transform: translate(0%, 492%);
+}
+
+.dish {
+  font-size: 30px;
+  transform: translate(43%, 1280%);
+}
+
+.dish-p, .dish-p-2 {
+  font-size: 25px;
+  transform: translate(40%, 100%);
+}
