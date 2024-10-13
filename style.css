@@ -378,4 +378,6 @@ body {
     width: 100%;
     z-index: -1;
     position: absolute;
+    bottom: 25%;
+    left: 0%;
 }
