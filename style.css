@@ -346,7 +346,7 @@ body {
     justify-content: center;
 }
 
-.rectangle-1 {
+.rectangle-1, .rectangle-2, .rectangle-3 {
         background-color: #cadde3;
         border-style: solid;
         border-color: #9fb5bc;
@@ -354,24 +354,7 @@ body {
         width: 100%;
         z-index: -1;
         position: absolute;
-    }
-
-.rectangle-2 {
-        height: 8%;
-        width: 100%;
-        background-color: #cadde3;
-        border-style: solid;
-        border-color: #9fb5bc;
-        z-index: -1;
-        position: absolute;
-    }
-
-.rectangle-3 {
-    height: 8%;
-    width: 100%;
-    background-color: #cadde3;
-    border-style: solid;
-    border-color: #9fb5bc;
-    z-index: -1;
-    position: absolute;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
     }
