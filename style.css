@@ -104,7 +104,7 @@ body {
 }
 
 .rectangle-1 {
-  height: 10%;
+  height: 5%;
   width: 100%;
   background-color: #cadde3;
   border-style: solid;
@@ -114,8 +114,8 @@ body {
 }
 
 .rectangle-2 {
-  height: 70px;
-  width: 2015px;
+  height: 5%;
+  width: 100%;
   background-color: #cadde3;
   border-style: solid;
   border-color: #9fb5bc;
@@ -133,7 +133,6 @@ body {
   z-index: -1;
   position: absolute;
   top: 100%;
-  transform: translate(0%,180%);
 }
 
 .title-details {
@@ -201,14 +200,13 @@ transform: translate(22%);
 }
 
 .rectangle-5 {
-  height: 395px;
-  width: 2015px;
+  height: 10%;
+  width: 100%;
   background-color: #cadde3;
   border-style: solid;
   border-color: #9fb5bc;
   z-index: -1;
   position: absolute;
-  transform: translate(0%, 149.5%);
 }
 
 .memory-tapes {
@@ -231,14 +229,13 @@ transform: translate(22%);
 }
 
 .rectangle-6 {
-  height: 395px;
-  width: 2015px;
+  height: 10%;
+  width: 100%;
   background-color: #cadde3;
   border-style: solid;
   border-color: #9fb5bc;
   z-index: -1;
   position: absolute;
-  transform: translate(0%, 290%);
 }
 
 .self {
@@ -272,8 +269,8 @@ transform: translate(22%);
 }
 
 .rectangle-7 {
-  height: 700px;
-  width: 600px;
+  height: 10%;
+  width: 100%;
   background-color: #cadde3;
   border-style: solid;
   border-color: #9fb5bc;
