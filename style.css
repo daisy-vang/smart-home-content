@@ -331,6 +331,21 @@ body {
         font-size: 25px;
     }
 
+.safety-p {
+    display: flex;
+    justify-content: center;
+}
+
+.addins {
+    display: flex;
+    justify-content: center;
+}
+
+.addins-n {
+    display: flex;
+    justify-content: center;
+}
+
 .rectangle-1 {
         background-color: #cadde3;
         border-style: solid;
