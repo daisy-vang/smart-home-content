@@ -69,6 +69,7 @@ body {
     left: 15%;
     height: 80%;
     width: 70%;
+    opacity: 30%;
   }
 .centered {
     position: absolute;
