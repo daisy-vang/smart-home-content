@@ -349,7 +349,6 @@ body {
         border-color: #9fb5bc;
         z-index: -1;
         position: absolute;
-        top: 100%;
     }
 
 .rectangle-3 {
@@ -360,5 +359,4 @@ body {
     border-color: #9fb5bc;
     z-index: -1;
     position: absolute;
-    top: 100%;
     }
