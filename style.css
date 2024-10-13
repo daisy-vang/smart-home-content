@@ -1,6 +1,9 @@
 body {
   margin: 3px;
   background-color: #f8f4e6;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
 main {
@@ -540,6 +543,16 @@ transform: translate(22%);
 }
 
 .dish-p, .dish-p-2 {
+  font-size: 25px;
+  transform: translate(40%, 100%);
+}
+
+.mice {
+  font-size: 30px;
+  transform: translate(43%, 1280%);
+}
+
+.mice-p {
   font-size: 25px;
   transform: translate(40%, 100%);
 }
