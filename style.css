@@ -346,7 +346,7 @@ body {
     justify-content: center;
 }
 
-.rectangle-1, .rectangle-2, .rectangle-3 {
+.rectangle-1 {
         background-color: #cadde3;
         border-style: solid;
         border-color: #9fb5bc;
@@ -354,6 +354,26 @@ body {
         width: 100%;
         z-index: -1;
         position: absolute;
-        display: flex;
-        flex-direction: column;
         }
+
+.rectangle-2 {
+    background-color: #cadde3;
+    border-style: solid;
+    border-color: #9fb5bc;
+    height: 8%;
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+    top: 50%;
+    left: 0;
+}
+
+.rectangle-3 {
+    background-color: #cadde3;
+    border-style: solid;
+    border-color: #9fb5bc;
+    height: 8%;
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+}
