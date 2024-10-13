@@ -339,4 +339,5 @@ body {
         border-color: #9fb5bc;
         height: 4%;
         width: 100%;
+        z-index: -1;
     }
