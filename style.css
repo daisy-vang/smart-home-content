@@ -87,7 +87,7 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,-10%);
+  transform: translate(60%,-62%);
   width: 60%;
   height: 60%;
 }
@@ -104,7 +104,7 @@ body {
 }
 
 .rectangle-1 {
-  height: 20%;
+  height: 10%;
   width: 100%;
   background-color: #cadde3;
   border-style: solid;
