@@ -340,8 +340,5 @@ body {
         height: 8%;
         width: 100%;
         z-index: -1;
-        display: flex;
-        justify-content: center;
-        align-items: flex-end;
         position: absolute;
     }
