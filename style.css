@@ -354,7 +354,6 @@ body {
         width: 100%;
         z-index: -1;
         display: flex;
-        justify-content: space-around;
-        flex-direction: column;
+        flex-flow: column wrap;
         position: absolute;
     }
