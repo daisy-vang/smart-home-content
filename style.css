@@ -337,10 +337,11 @@ body {
         background-color: #cadde3;
         border-style: solid;
         border-color: #9fb5bc;
-        height: 4%;
+        height: 6%;
         width: 100%;
         z-index: -1;
         display: flex;
         justify-content: center;
+        align-items: flex-end;
         position: absolute;
     }
