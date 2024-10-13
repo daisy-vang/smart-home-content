@@ -85,3 +85,247 @@ body {
 .img {
     width: 100%;
   }
+
+.title-details {
+    transform: translate(22%);
+    }
+.title {
+        display: flex;
+        justify-content: center;
+    }
+      
+.title-below {
+        display: flex;
+        justify-content: center;
+    }
+      
+.title-2 {
+        display: flex;
+        justify-content: center;
+    }
+      
+.title-2-p {
+        display: flex;
+        justify-content: center;
+    }
+      
+.title-3 {
+        display: flex;
+        justify-content: center;
+    }
+      
+.title-3-p {
+        display: flex;
+        justify-content: center;
+    }
+.auto-tech {
+        display: flex;
+        justify-content: center;
+    }
+.brain {
+        font-size: 30px;
+    }
+      
+.brain-p {
+        font-size: 25px;
+    }
+
+.memory-tapes {
+        font-size: 30px;
+    }
+.memory-p {
+        font-size: 25px;
+    }
+.memory-p-2 {
+        font-size: 25px;
+    }
+
+.self {
+        font-size: 30px;
+    }
+      
+.self-p {
+        font-size: 25px;
+    }
+.self-p-2 {
+        font-size: 25px;
+    }
+
+.automated-convenience {
+        display: flex;
+        justify-content: center;
+    }
+    
+.automated-cleaning {
+        display: flex;
+        justify-content: center;
+    }
+
+.clock {
+        font-size: 30px;
+    }
+.clock-p, .clock-p-2, .clock-p-3 {
+        font-size: 25px;
+    }
+
+.alarm {
+        font-size: 30px;
+    }
+.alarm-p, .alarm-p-2, .alarm-p-3 {
+        font-size: 25px;
+    }
+
+.stove {
+        font-size: 30px;
+    }
+.stove-p, .stove-p-2, .stove-p-3 {
+        font-size: 25px;
+    }
+
+.box {
+        font-size: 30px;
+    }
+.box-p, .box-p-2, .box-p-3 {
+        font-size: 25px;
+    }
+
+.doors {
+        font-size: 30px;
+    }
+.doors-p, .doors-p-2, .doors-p-3 {
+        font-size: 25px;
+    }
+
+.table {
+        font-size: 30px;
+    }
+.table-p, .table-p-2, .table-p-3 {
+        font-size: 25px;
+    }
+
+.beds {
+        font-size: 30px;
+    }
+.beds-p, .beds-p-2, .beds-p-3 {
+        font-size: 25px;
+    }
+
+.baths {
+        font-size: 30px;
+    }
+.baths-p, .baths-p-2, .baths-p-3 {
+        font-size: 25px;
+    }
+
+.sprink {
+        font-size: 30px;
+    }
+.sprink-p, .sprink-p-2, .sprink-p-3 {
+        font-size: 25px;
+    }
+
+.dish {
+        font-size: 30px;
+    }
+.dish-p, .dish-p-2 {
+        font-size: 25px;
+    }
+      
+.mice {
+        font-size: 30px;
+    }
+.mice-p {
+        font-size: 25px;
+    }
+
+.incen {
+        font-size: 30px;
+    }
+      
+.incen-p {
+        font-size: 25px;
+    }
+      
+.rat {
+        font-size: 30px;
+    }
+.rat-p {
+        font-size: 25px;
+    }
+      
+.fire-alarm {
+        font-size: 30px;
+    }
+.fire-alarm-p {
+        font-size: 25px;
+    }
+      
+.water {
+        font-size: 30px;
+    }
+.water-p {
+        font-size: 25px;
+    }
+      
+.water-rats {
+        font-size: 30px;
+    }
+.water-rats-p {
+        font-size: 25px;
+    }
+      
+.robot {
+        font-size: 30px;
+    }
+.robot-p {
+        font-size: 25px;
+    }
+      
+.snakes {
+        font-size: 30px;
+    }
+.snakes-p {
+        font-size: 25px;
+    }
+      
+.fireplace {
+        font-size: 30px;
+    }
+.fireplace-p {
+        font-size: 25px;
+    }
+      
+.poem {
+        font-size: 30px;
+    }
+.poem-p {
+        font-size: 25px;
+    }
+      
+.music {
+        font-size: 30px;
+    }
+.music-p {
+        font-size: 25px;
+    }
+      
+.chairs {
+        font-size: 30px;
+    }
+.chairs-p {
+        font-size: 25px;
+    }
+      
+.glass {
+        font-size: 30px;
+    }
+.glass-p {
+        font-size: 25px;
+    }
+      
+.media {
+        font-size: 30px;
+    }
+.media-p {
+        font-size: 25px;
+    }
