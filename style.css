@@ -150,6 +150,26 @@ transform: translate(22%);
   justify-content: center;
 }
 
+.title-2 {
+  display: flex;
+  justify-content: center;
+}
+
+.title-2-p {
+  display: flex;
+  justify-content: center;
+}
+
+.title-3 {
+  display: flex;
+  justify-content: center;
+}
+
+.title-3-p {
+  display: flex;
+  justify-content: center;
+}
+
 .auto-tech {
   display: flex;
   justify-content: center;
