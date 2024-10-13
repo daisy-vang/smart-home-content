@@ -122,7 +122,7 @@ main {
   z-index: -1;
   position: absolute;
   top: 100%;
-  transform: translate(0%,70%);
+  transform: translate(0%,80%);
 }
 
 .rectangle-3 {
