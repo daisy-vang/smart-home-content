@@ -7,6 +7,8 @@ body {
   background-color: #f8f4e6;
 }
 
+@media screen and (min-width: 1100px) {
+
 
 .navbar ul {
   list-style-type: none;
@@ -552,4 +554,6 @@ transform: translate(22%);
 .mice-p {
   font-size: 25px;
   transform: translate(40%, 100%);
+}
+
 }
