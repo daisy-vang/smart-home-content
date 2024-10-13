@@ -353,7 +353,6 @@ body {
         height: 8%;
         width: 100%;
         z-index: -1;
-        position: absolute;
         display: flex;
         justify-content: space-around;
         flex-direction: column;
