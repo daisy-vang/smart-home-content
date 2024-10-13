@@ -72,3 +72,18 @@ body {
     width: 30%;
     height: 60%;
   }
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+  }
+.search {
+    position: absolute;
+    top: 0.1%;
+    left: 50%;
+    transform: translate(-50%,-350%);
+  }
+.img {
+    width: 100%;
+  }
