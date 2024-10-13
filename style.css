@@ -4,9 +4,6 @@
 }
 body {
     background-color: #f8f4e6;
-    width: 100%;
-    margin: 0px;
-    padding: 0px;
   }
 
 .navbar ul {
@@ -356,7 +353,5 @@ body {
         height: 8%;
         width: 100%;
         z-index: -1;
-        display: flex;
-        flex-flow: column wrap;
         position: absolute;
     }
