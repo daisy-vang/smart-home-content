@@ -340,4 +340,7 @@ body {
         height: 4%;
         width: 100%;
         z-index: -1;
+        display: flex;
+        justify-content: center;
+        position: absolute;
     }
