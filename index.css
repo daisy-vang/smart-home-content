@@ -1,143 +1,21 @@
-.rectangle-4 {
-  height: 395px;
-  width: 2015px;
-  background-color: #cadde3;
-  border-style: solid;
-  border-color: #9fb5bc;
-  z-index: -1;
-  position: absolute;
-  transform: translate(0%, 10%);
-}
-
 .img-brain {
   transform: translate(0%, -8.5%);
-}
-
-.rectangle-5 {
-  height: 10%;
-  width: 100%;
-  background-color: #cadde3;
-  border-style: solid;
-  border-color: #9fb5bc;
-  z-index: -1;
-  position: absolute;
 }
 
 .img-memory {
   transform: translate(0%, -7%);
 }
 
-.rectangle-6 {
-  height: 10%;
-  width: 100%;
-  background-color: #cadde3;
-  border-style: solid;
-  border-color: #9fb5bc;
-  z-index: -1;
-  position: absolute;
-}
-
 .img-self {
   transform: translate(0%, -18.5%);
 }
 
-.rectangle-7 {
-  height: 10%;
-  width: 100%;
-  background-color: #cadde3;
-  border-style: solid;
-  border-color: #9fb5bc;
-  z-index: -1;
-  position: absolute;
-  transform: translate(5%, 10%);
-}
-
-.rectangle-8 {
-  height: 700px;
-  width: 600px;
-  background-color: #cadde3;
-  border-style: solid;
-  border-color: #9fb5bc;
-  z-index: -1;
-  position: absolute;
-  transform: translate(117%, 10%);
-}
-
-.rectangle-9 {
-  height: 700px;
-  width: 600px;
-  background-color: #cadde3;
-  border-style: solid;
-  border-color: #9fb5bc;
-  z-index: -1;
-  position: absolute;
-  transform: translate(229%, 10%);
-}
-
-.rectangle-10 {
-  height: 700px;
-  width: 600px;
-  background-color: #cadde3;
-  border-style: solid;
-  border-color: #9fb5bc;
-  z-index: -1;
-  position: absolute;
-  transform: translate(5%, 120%);
-}
-
-.rectangle-11 {
-  height: 700px;
-  width: 600px;
-  background-color: #cadde3;
-  border-style: solid;
-  border-color: #9fb5bc;
-  z-index: -1;
-  position: absolute;
-  transform: translate(117%, 120%);
-}
-
-.rectangle-12 {
-  height: 700px;
-  width: 600px;
-  background-color: #cadde3;
-  border-style: solid;
-  border-color: #9fb5bc;
-  z-index: -1;
-  position: absolute;
-  transform: translate(229%, 120%);
-}
-
-.rectangle-13 {
-  height: 700px;
-  width: 600px;
-  background-color: #cadde3;
-  border-style: solid;
-  border-color: #9fb5bc;
-  z-index: -1;
-  position: absolute;
-  transform: translate(5%, 230%);
-}
-
-.rectangle-14 {
-  height: 700px;
-  width: 600px;
-  background-color: #cadde3;
-  border-style: solid;
-  border-color: #9fb5bc;
-  z-index: -1;
-  position: absolute;
-  transform: translate(117%, 230%);
-}
-
 .rectangle-15 {
-  height: 700px;
-  width: 600px;
   background-color: #cadde3;
   border-style: solid;
   border-color: #9fb5bc;
   z-index: -1;
   position: absolute;
-  transform: translate(229%, 230%);
 }
 
 .img-clock {

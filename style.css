@@ -368,7 +368,7 @@ body {
     position: absolute;
     bottom: 30%;
     left: 0%;
-}
+    }
 
 .rectangle-3 {
     background-color: #cadde3;
@@ -380,4 +380,100 @@ body {
     position: absolute;
     bottom: 25%;
     left: 0%;
-}
+    }
+
+.rectangle-4 {
+    background-color: #cadde3;
+    border-style: solid;
+    border-color: #9fb5bc;
+    z-index: -1;
+    position: absolute;
+  }
+
+.rectangle-5 {
+    background-color: #cadde3;
+    border-style: solid;
+    border-color: #9fb5bc;
+    z-index: -1;
+    position: absolute;
+    }
+
+.rectangle-6 {
+        background-color: #cadde3;
+        border-style: solid;
+        border-color: #9fb5bc;
+        z-index: -1;
+        position: absolute;
+    }
+
+.rectangle-7 {
+        background-color: #cadde3;
+        border-style: solid;
+        border-color: #9fb5bc;
+        z-index: -1;
+        position: absolute;
+    }
+
+.rectangle-8 {
+        background-color: #cadde3;
+        border-style: solid;
+        border-color: #9fb5bc;
+        z-index: -1;
+        position: absolute;
+    }
+
+.rectangle-9 {
+        background-color: #cadde3;
+        border-style: solid;
+        border-color: #9fb5bc;
+        z-index: -1;
+        position: absolute;
+    }
+
+.rectangle-10 {
+        background-color: #cadde3;
+        border-style: solid;
+        border-color: #9fb5bc;
+        z-index: -1;
+        position: absolute;
+    }
+
+.rectangle-11 {
+        background-color: #cadde3;
+        border-style: solid;
+        border-color: #9fb5bc;
+        z-index: -1;
+        position: absolute;
+    }
+
+.rectangle-12 {
+        background-color: #cadde3;
+        border-style: solid;
+        border-color: #9fb5bc;
+        z-index: -1;
+        position: absolute;
+    }
+
+.rectangle-13 {
+        background-color: #cadde3;
+        border-style: solid;
+        border-color: #9fb5bc;
+        z-index: -1;
+        position: absolute;
+    }
+
+.rectangle-14 {
+        background-color: #cadde3;
+        border-style: solid;
+        border-color: #9fb5bc;
+        z-index: -1;
+        position: absolute;
+    }
+
+.rectangle-15 {
+        background-color: #cadde3;
+        border-style: solid;
+        border-color: #9fb5bc;
+        z-index: -1;
+        position: absolute;
+    }
