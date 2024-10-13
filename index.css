@@ -1,12 +1,3 @@
-.rectangle-1 {
-  height: 5%;
-  width: 100%;
-  background-color: #cadde3;
-  border-style: solid;
-  border-color: #9fb5bc;
-  z-index: -1;
-  position: absolute;
-}
 
 .rectangle-2 {
   height: 5%;

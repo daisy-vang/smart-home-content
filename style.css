@@ -329,3 +329,9 @@ body {
 .media-p {
         font-size: 25px;
     }
+
+.rectangle-1 {
+        background-color: #cadde3;
+        border-style: solid;
+        border-color: #9fb5bc;
+    }
