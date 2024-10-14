@@ -190,14 +190,31 @@ body {
 }
 
 .self {
-        font-size: 30px;
+        font-size: 25px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        left: 45%;
+        top: 112%;
     }
       
 .self-p {
-        font-size: 25px;
+        font-size: 20px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        left: 43%;
+        top: 116%;
+        width: 40%;
     }
 .self-p-2 {
-        font-size: 25px;
+        font-size: 20px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        left: 43%;
+        top: 119%;
+        width: 40%;
     }
 
 .automated-convenience {
