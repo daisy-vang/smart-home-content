@@ -99,8 +99,16 @@ body {
     line-height: 1.5;
 }
 
+.s {
+    line-height: 3;
+}
+
 .s-p {
     line-height: 1.5;
+}
+
+.e {
+    line-height: 3;
 }
 
 .e-p {
