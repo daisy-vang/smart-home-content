@@ -555,6 +555,15 @@ body {
         height: 60%;
     }
 
+.img-alarm {
+        position: absolute;
+        top: 163%;
+        left: 38.6%;
+        z-index: -1;
+        width: 22.6%;
+        height: 25%;
+      }
+
 .rectangle-9 {
         background-color: #cadde3;
         border-style: solid;
@@ -565,6 +574,15 @@ body {
         left: 68.2%;
         width: 26.6%;
         height: 60%;
+    }
+
+.img-stove {
+        position: absolute;
+        top: 163%;
+        left: 70.2%;
+        z-index: -1;
+        width: 22.6%;
+        height: 25%;
     }
 
 .rectangle-10 {
@@ -579,6 +597,15 @@ body {
         left: 5%;
     }
 
+.img-weather {
+        position: absolute;
+        top: 233%;
+        left: 7%;
+        z-index: -1;
+        width: 22.6%;
+        height: 25%;
+    }
+
 .rectangle-11 {
         background-color: #cadde3;
         border-style: solid;
@@ -590,6 +617,15 @@ body {
         width: 26.6%;
         height: 60%;
     }
+
+    .img-doors {
+        position: absolute;
+        top: 233%;
+        left: 38.6;
+        z-index: -1;
+        width: 22.6%;
+        height: 25%;
+      }
 
 .rectangle-12 {
         background-color: #cadde3;
@@ -603,6 +639,15 @@ body {
         height: 60%;
     }
 
+    .img-table {
+        position: absolute;
+        top: 233%;
+        left: 70.2%;
+        z-index: -1;
+        width: 22.6%;
+        height: 25%;
+      }
+
 .rectangle-13 {
         background-color: #cadde3;
         border-style: solid;
@@ -614,6 +659,14 @@ body {
         top: 300%;
         left: 5%;
     }
+
+    .img-bed-warmers {
+        position: absolute;
+        width: 26.6%;
+        height: 60%;
+        top: 300%;
+        left: 7%;
+      }
 
 .rectangle-14 {
         background-color: #cadde3;
@@ -627,6 +680,14 @@ body {
         height: 60%;
     }
 
+    .img-bath {
+        position: absolute;
+        top: 300%;
+        left: 38.6%;
+        width: 26.6%;
+        height: 60%;
+      }
+
 .rectangle-15 {
         background-color: #cadde3;
         border-style: solid;
@@ -638,3 +699,11 @@ body {
         width: 26.6%;
         height: 60%;
     }
+
+    .img-sprinklers {
+        position: absolute;
+        top: 300%;
+        left: 70.2%;
+        width: 26.6%;
+        height: 60%;
+      }
