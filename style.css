@@ -5,8 +5,6 @@
 body {
     background-color: #f8f4e6;
     width: 100%;
-    display: flex;
-    flex-direction: column;
   }
 
 .navbar ul {
@@ -247,7 +245,7 @@ body {
         font-size: 20px;
         position: absolute;
         left: 12%;
-        top: 192%;
+        top: 182%;
         margin: 15%;
     }
 
