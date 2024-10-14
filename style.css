@@ -245,6 +245,9 @@ body {
 
 .alarm {
         font-size: 30px;
+        position: absolute;
+        top: 190%;
+        left: 38.6%;
     }
 .alarm-p, .alarm-p-2, .alarm-p-3 {
         font-size: 25px;
@@ -252,6 +255,9 @@ body {
 
 .stove {
         font-size: 30px;
+        position: absolute;
+        top: 190%;
+        left: 70.2%;
     }
 .stove-p, .stove-p-2, .stove-p-3 {
         font-size: 25px;
