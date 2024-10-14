@@ -47,8 +47,7 @@ body {
     color: white;
     display: flex;
     justify-content: space-around;
-    align-items: center;
-    margin: 0 auto;
+    align-items: flex-end;
   }
 .footer-heading-1 {
     color: black;
