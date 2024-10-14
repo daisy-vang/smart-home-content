@@ -92,7 +92,7 @@ body {
   }
 
 .title-details {
-    text-indent: 30px;
+    left: 15%
     }
 .title {
         display: flex;
