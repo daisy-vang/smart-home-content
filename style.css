@@ -1088,6 +1088,7 @@ body {
     position: absolute;
     top: 210%;
     left: 0%;
+    height: 50%;
 }
 
 .img-media {
@@ -1095,4 +1096,5 @@ body {
     width: 50%;
     position: absolute;
     top: 220%;
+    height: 50%;
 }
