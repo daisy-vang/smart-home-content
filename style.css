@@ -139,7 +139,6 @@ body {
 .auto-tech {
         display: flex;
         justify-content: center;
-        text-indent: ;
     }
 .brain {
         font-size: 30px;
@@ -421,6 +420,7 @@ body {
     position: absolute;
     top: 30%;
     left: 10%;
+    z-index: -1;
     }
 
 .rectangle-5 {
