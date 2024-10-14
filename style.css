@@ -146,6 +146,8 @@ body {
         position: absolute;
         display: flex;
         justify-content: center;
+        top: 35%;
+        left: 35%;
     }
       
 .brain-p {
