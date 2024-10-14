@@ -95,16 +95,8 @@ body {
     text-indent: 17%;
     }
 
-.a-t-p {
-    line-height: 1.7;
-}
-
-.s-p {
-    line-height: 1.7;
-}
-
-.e-p {
-    line-height: 1.7;
+.a-t-p, .s-p, .e-p {
+    line-height: 1.5;
 }
 
 .title {
