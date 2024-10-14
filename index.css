@@ -10,14 +10,6 @@
   transform: translate(0%, -18.5%);
 }
 
-.rectangle-15 {
-  background-color: #cadde3;
-  border-style: solid;
-  border-color: #9fb5bc;
-  z-index: -1;
-  position: absolute;
-}
-
 .img-clock {
   position: absolute;
 }

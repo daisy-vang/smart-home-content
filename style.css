@@ -406,6 +406,8 @@ body {
     border-color: #9fb5bc;
     z-index: -1;
     position: absolute;
+    width: 100%;
+    height: 20%;
   }
 
 .rectangle-5 {
