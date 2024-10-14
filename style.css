@@ -438,11 +438,12 @@ body {
     left: 43%;
     }
       
-.fire-alarm {
+.fire-alarm, .water-rats, .snakes {
         font-size: 30px;
         position: absolute;
         left: 90%;
     }
+
 .fire-alarm-p {
         font-size: 20px;
     }
@@ -454,9 +455,6 @@ body {
         font-size: 20px;
     }
       
-.water-rats {
-        font-size: 25px;
-    }
 .water-rats-p {
         font-size: 20px;
     }
@@ -467,10 +465,7 @@ body {
 .robot-p {
         font-size: 20px;
     }
-      
-.snakes {
-        font-size: 25px;
-    }
+
 .snakes-p {
         font-size: 20px;
     }
