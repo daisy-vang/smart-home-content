@@ -458,8 +458,10 @@ body {
         width: 45%;
     }
       
-.water {
-        font-size: 25px;
+.water, .robot {
+        font-size: 30px;
+        position: absolute;
+        left: 30%;
     }
 .water-p {
         font-size: 20px;
@@ -471,10 +473,6 @@ body {
         left: 54%;
         top: 180%;
         width: 45%;
-    }
-      
-.robot {
-        font-size: 25px;
     }
 .robot-p {
         font-size: 20px;
