@@ -105,7 +105,7 @@ body {
     }
 
 .a-t-p, .s-p, .e-p {
-    line-height: 1.8;
+    line-height: 2;
     font-size: 16px;
 }
 
@@ -517,7 +517,7 @@ body {
             width: 70%;
             z-index: -1;
             position: absolute;
-            top: 142%;
+            top: 143%;
             left: 15%;
             display: flex;
             justify-content: center;
