@@ -1053,3 +1053,10 @@ body {
     width: 50%;
     height: 25%;
 }
+
+.img-water {
+    display: flex;
+    justify-content: flex-end;
+    width: 50%;
+    height: 25%;
+}
