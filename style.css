@@ -258,7 +258,10 @@ body {
     }
 .alarm-p {
         font-size: 20px;
-
+        position: absolute;
+        left: 38%;
+        top: 194%;
+        width: 20%;
     }
 
 .stove {
