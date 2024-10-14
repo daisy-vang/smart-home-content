@@ -275,6 +275,9 @@ body {
 
 .doors {
         font-size: 30px;
+        position: absolute;
+        top: 258%;
+        left: 40%;
     }
 .doors-p, .doors-p-2, .doors-p-3 {
         font-size: 25px;
@@ -282,6 +285,9 @@ body {
 
 .table {
         font-size: 30px;
+        position: absolute;
+        top: 258%;
+        left: 75%;
     }
 .table-p, .table-p-2, .table-p-3 {
         font-size: 25px;
