@@ -299,8 +299,11 @@ body {
         left: 43%;
     }
 .doors-p {
-        font-size: 20px;
-
+    font-size: 20px;
+    position: absolute;
+    left: 41%;
+    top: 260%;
+    width: 20%;
     }
 
 .table {
@@ -311,7 +314,10 @@ body {
     }
 .table-p {
         font-size: 20px;
-
+        position: absolute;
+        left: 74%;
+        top: 260%;
+        width: 20%;
     }
 
 .beds {
