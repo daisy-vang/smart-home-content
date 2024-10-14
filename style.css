@@ -440,9 +440,8 @@ body {
       
 .fire-alarm {
         font-size: 30px;
-        display: flex;
-        justify-content: flex-end;
-        transform: translate(75%);
+        position: absolute;
+        left: 95%;
     }
 .fire-alarm-p {
         font-size: 20px;
