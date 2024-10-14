@@ -91,11 +91,8 @@ body {
     height: 45%;
   }
 
-.A-T-p, .A-T {
+.title-details {
     text-indent: 17%;
-    position: absolute;
-    display: flex;
-    flex-direction: row;
     }
 
 .title {
