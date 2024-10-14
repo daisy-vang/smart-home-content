@@ -93,8 +93,11 @@ body {
 
 .title-details {
     text-indent: 17%;
-    line-height: 1.5;
     }
+
+.s {
+    line-height: 1.5;
+}
 
 .title {
         display: flex;
