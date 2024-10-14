@@ -370,7 +370,7 @@ body {
             z-index: -1;
             position: absolute;
             top: 142%;
-            left: 0%;
+            left: 15%;
             display: flex;
             justify-content: center;
         }
@@ -384,7 +384,7 @@ body {
             z-index: -1;
             position: absolute;
             top: 150%;
-            left: 0%;
+            left: 15%;
             display: flex;
             justify-content: center;
         }
