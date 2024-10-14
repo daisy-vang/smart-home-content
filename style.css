@@ -357,6 +357,8 @@ body {
         width: 100%;
         z-index: -1;
         position: absolute;
+        top: 130%;
+        left: 0%;
         }
 
 .rectangle-2 {
