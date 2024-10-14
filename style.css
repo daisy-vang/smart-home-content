@@ -728,3 +728,12 @@ body {
         left: 10%;
         top: 375%;
       }
+
+.img-dish {
+    position: absolute;
+    top: 375%;
+    left: 10%;
+    z-index: -1;
+    width: 30%;
+    height: 31%;
+}
