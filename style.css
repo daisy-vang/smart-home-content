@@ -220,6 +220,7 @@ body {
 .automated-convenience {
         display: flex;
         justify-content: center;
+        top: 135%;
     }
     
 .automated-cleaning {
@@ -525,6 +526,9 @@ body {
         border-color: #9fb5bc;
         z-index: -1;
         position: absolute;
+        width: 26.6%;
+        height: 30%;
+        left: 5%;
     }
 
 .rectangle-8 {
