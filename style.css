@@ -142,11 +142,14 @@ body {
         text-indent: 2px;
     }
 .brain {
-        font-size: 30px;
+        font-size: 20px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
     }
       
 .brain-p {
-        font-size: 25px;
+        font-size: 15px;
     }
 
 .memory-tapes {
