@@ -1068,12 +1068,23 @@ body {
     height: 31%;
 }
 
-.img-fire-alarm, .img-water-rats, .img-snakes, .img-glass {
+.img-fire-alarm, .img-water-rats, .img-snakes {
     width: 50%;
     height: 25%;
 }
 
-.img-water, .img-robot, .img-media {
+.img-water, .img-robot {
+    transform: translate(100%);    
+    width: 50%;
+    height: 25%;
+}
+
+.img-glass {
+    width: 50%;
+    height: 25%;
+}
+
+.img-media {
     transform: translate(100%);    
     width: 50%;
     height: 25%;
