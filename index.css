@@ -1,8 +1,3 @@
-.img-sprinklers {
-  position: absolute;
-  transform: translate(287.5%, -62%);
-}
-
 .img-dish, .img-mice, .img-incen, .img-rat {
   transform: translate(0%, 90%);
 }

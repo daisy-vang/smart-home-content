@@ -228,6 +228,9 @@ body {
 .automated-cleaning {
         display: flex;
         justify-content: center;
+        position: absolute;
+        top: 345%;
+        left: 40%;
     }
 
 .clock {
@@ -709,4 +712,16 @@ body {
         z-index: -1;
         width: 22.6%;
         height: 25%;
+      }
+
+      .rectangle-16 {
+        background-color: #cadde3;
+        border-style: solid;
+        border-color: #9fb5bc;
+        z-index: -2;
+        position: absolute;
+        height: 8%;
+        width: 70%;
+        left: 15%;
+        top: 365%;
       }
