@@ -1095,4 +1095,6 @@ body {
     transform: translate(100%);    
     width: 50%;
     height: 25%;
+    position: absolute;
+    top: 315%;
 }
