@@ -621,7 +621,7 @@ body {
     .img-doors {
         position: absolute;
         top: 233%;
-        left: 38.6;
+        left: 38.6%;
         z-index: -1;
         width: 22.6%;
         height: 25%;
