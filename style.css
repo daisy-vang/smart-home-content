@@ -288,7 +288,7 @@ body {
         font-size: 20px;
         position: absolute;
         left: 11%;
-        top: 260%;
+        top: 264%;
         width: 20%;
     }
 
@@ -302,7 +302,7 @@ body {
     font-size: 20px;
     position: absolute;
     left: 41%;
-    top: 260%;
+    top: 264%;
     width: 20%;
     }
 
@@ -316,7 +316,7 @@ body {
         font-size: 20px;
         position: absolute;
         left: 74%;
-        top: 260%;
+        top: 264%;
         width: 20%;
     }
 
@@ -344,8 +344,8 @@ body {
 .baths-p {
         font-size: 20px;
         position: absolute;
-        left: 11%;
-        top: 322%;
+        left: 40%;
+        top: 332%;
         width: 20%;
     }
 
@@ -358,7 +358,7 @@ body {
 .sprink-p {
         font-size: 20px;
         position: absolute;
-        left: 11%;
+        left: 74%;
         top: 322%;
         width: 20%;
     }
