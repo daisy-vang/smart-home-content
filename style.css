@@ -384,24 +384,60 @@ body {
       
 .mice {
         font-size: 25px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        top: 412%;
+        left: 45%;
     }
 .mice-p {
-        font-size: 20px;
+    font-size: 20px;
+    position: absolute;
+    width: 40%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    top: 420%;
+    left: 43%;
     }
 
 .incen {
-        font-size: 25px;
+    font-size: 25px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    top: 447%;
+    left: 45%;
     }
       
 .incen-p {
-        font-size: 20px;
+    font-size: 20px;
+    position: absolute;
+    width: 40%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    top: 452%;
+    left: 43%;
     }
       
 .rat {
-        font-size: 25px;
+    font-size: 25px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    top: 482%;
+    left: 45%;
     }
 .rat-p {
-        font-size: 20px;
+    font-size: 20px;
+    position: absolute;
+    width: 40%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    top: 490%;
+    left: 43%;
     }
       
 .fire-alarm {
