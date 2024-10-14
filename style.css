@@ -39,7 +39,7 @@ body {
     border-style: solid;
     border-color: #8d6562;
     position: absolute;
-    bottom: 100%;
+    bottom: 10%;
 }
 .footer {
     background-color: #ab8885;
