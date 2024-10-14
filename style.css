@@ -272,7 +272,10 @@ body {
     }
 .stove-p {
         font-size: 20px;
-
+        position: absolute;
+        left: 188%;
+        top: 194%;
+        width: 20%;
     }
 
 .box {
@@ -283,7 +286,10 @@ body {
     }
 .box-p {
         font-size: 20px;
-
+        position: absolute;
+        left: 11%;
+        top: 260%;
+        width: 20%;
     }
 
 .doors {
