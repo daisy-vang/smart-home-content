@@ -480,6 +480,10 @@ body {
     }
 .robot-p {
         font-size: 20px;
+        position: absolute;
+        left: 54%;
+        top: 250%;
+        width: 45%;
     }
 
 .snakes-p {
