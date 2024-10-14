@@ -1086,7 +1086,9 @@ body {
     width: 50%;
     height: 25%;
     display: flex;
-    
+    position: absolute;
+    top: 325%;
+    left: 0%;
 }
 
 .img-media {
