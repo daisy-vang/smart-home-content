@@ -417,12 +417,9 @@ body {
     justify-content: center;
   }
 
-.img-brain {
-    width: 20%;
-    height: 30%;
+.img-brain { 
     top:30%;
     left: 10%;
-    z-index: -1;
     }
 
 .rectangle-5 {
