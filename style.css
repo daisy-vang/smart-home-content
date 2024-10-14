@@ -1052,8 +1052,8 @@ body {
     height: 25%;
 }
 
-.img-water {
-    transform: translate(95%);    
+.img-water, .img-robot, .img-media {
+    transform: translate(100%);    
     width: 50%;
     height: 25%;
 }
@@ -1063,11 +1063,6 @@ body {
     height: 25%;
 }
 
-.img-robot {
-    left: 50%;
-    width: 50%;
-    height: 25%;
-}
 
 .img-snakes {
     width: 50%;
@@ -1075,12 +1070,6 @@ body {
 }
 
 .img-glass {
-    width: 50%;
-    height: 25%;
-}
-
-.img-media {
-    left: 50%;
     width: 50%;
     height: 25%;
 }
