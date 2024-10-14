@@ -476,7 +476,7 @@ body {
 .img-brain { 
     position: absolute;
     top: 30%;
-    left: 11%;
+    left: 10%;
     z-index: -1;
     width: 30%;
     height: 31%;
@@ -499,7 +499,7 @@ body {
 .img-memory {
     position: absolute;
     top: 70%;
-    left: 11%;
+    left: 10%;
     z-index: -1;
     width: 30%;
     height: 31%;
@@ -522,7 +522,7 @@ body {
 .img-self {
     position: absolute;
     top: 110%;
-    left: 11%;
+    left: 10%;
     z-index: -1;
     width: 30%;
     height: 31%;
