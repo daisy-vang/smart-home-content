@@ -167,16 +167,27 @@ body {
         display: flex;
         justify-content: center;
         top: 73%;
-        left: 48%;
+        left: 45%;
     }
-.memory-p, .memory-p-2 {
+.memory-p {
         font-size: 20px;
         position: absolute;
         display: flex;
         justify-content: center;
         top: 80%;
-        left: 46%;
+        left: 43%;
+        width: 40%;
     }
+
+.memory-p-2 {
+    font-size: 20px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        top: 83%;
+        left: 43%;
+        width: 40%;
+}
 
 .self {
         font-size: 30px;
