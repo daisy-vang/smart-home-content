@@ -326,8 +326,12 @@ body {
         left: 13%;
         top: 320%;
     }
-.beds-p, .beds-p-2, .beds-p-3 {
+.beds-p {
         font-size: 20px;
+        position: absolute;
+        left: 11%;
+        top: 322%;
+        width: 20%;
     }
 
 .baths {
@@ -337,8 +341,12 @@ body {
         top: 230%;
         left: 43%;
     }
-.baths-p, .baths-p-2, .baths-p-3 {
+.baths-p {
         font-size: 20px;
+        position: absolute;
+        left: 11%;
+        top: 322%;
+        width: 20%;
     }
 
 .sprink {
@@ -347,8 +355,12 @@ body {
         top: 320%;
         left: 76%;
     }
-.sprink-p, .sprink-p-2, .sprink-p-3 {
+.sprink-p {
         font-size: 20px;
+        position: absolute;
+        left: 11%;
+        top: 322%;
+        width: 20%;
     }
 
 .dish {
