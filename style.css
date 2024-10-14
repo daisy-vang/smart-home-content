@@ -235,6 +235,9 @@ body {
 
 .clock {
         font-size: 30px;
+        position: absolute;
+        left: 13%;
+        top: 170%;
     }
 .clock-p, .clock-p-2, .clock-p-3 {
         font-size: 25px;

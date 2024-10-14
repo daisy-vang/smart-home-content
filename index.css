@@ -2,17 +2,6 @@
   transform: translate(0%, 90%);
 }
 
-.rectangle-16 {
-  height: 395px;
-  width: 2015px;
-  background-color: #cadde3;
-  border-style: solid;
-  border-color: #9fb5bc;
-  z-index: -1;
-  position: absolute;
-  transform: translate(0%, 108%);
-}
-
 .rectangle-17 {
   height: 395px;
   width: 2015px;
