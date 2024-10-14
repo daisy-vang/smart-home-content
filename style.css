@@ -1086,7 +1086,7 @@ body {
     width: 50%;
     display: flex;
     position: absolute;
-    top: 300%;
+    top: 210%;
     left: 0%;
 }
 
@@ -1094,5 +1094,5 @@ body {
     transform: translate(100%);    
     width: 50%;
     position: absolute;
-    top: 315%;
+    top: 220%;
 }
