@@ -17,6 +17,7 @@ body {
     border-color: #ab8885;
     display: flex;
     justify-content: space-around;
+    width: 100;
   }
 .navbar a {
     color: white;
@@ -38,7 +39,7 @@ body {
   }
 .footer {
     background-color: #ab8885;
-    width: 80%;
+    width: 100%;
     height: 40vh;
     color: white;
     display: flex;
