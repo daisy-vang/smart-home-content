@@ -595,6 +595,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    top: 100%;
 }
 
 .rectangle-1 {
