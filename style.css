@@ -409,9 +409,11 @@ body {
     border-color: #9fb5bc;
     z-index: -1;
     position: absolute;
-    width: 100%;
+    width: 75%;
     height: 30%;
     top: 30%;
+    display: flex;
+    justify-content: center;
   }
 
 .rectangle-5 {
