@@ -241,12 +241,13 @@ body {
         left: 13%;
         top: 190%;
     }
+    
 .clock-p {
         font-size: 20px;
         position: absolute;
         left: 12%;
         top: 192%;
-        width: 40%;
+        width: 20%;
     }
 
 .alarm {
