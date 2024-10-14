@@ -481,6 +481,9 @@ body {
 
 .snakes-p {
         font-size: 20px;
+        position: absolute;
+        left: 54%;
+        width: 45%;
     }
       
 .fireplace {
