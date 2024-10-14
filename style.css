@@ -147,7 +147,7 @@ body {
         display: flex;
         justify-content: center;
         top: 33%;
-        left: 40%;
+        left: 37%;
     }
       
 .brain-p {
@@ -156,6 +156,7 @@ body {
         width: 40%;
         height: 30%;
         display: flex;
+        justify-content: center;
     }
 
 .memory-tapes {
