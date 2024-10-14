@@ -92,8 +92,9 @@ body {
   }
 
 .title-details {
-    text-indent: 45%;
+    text-indent: 15%;
     }
+
 .title {
         display: flex;
         justify-content: center;
