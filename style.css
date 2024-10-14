@@ -33,7 +33,6 @@ body {
 
 .footer-container {
     background-color: #ab8885;
-    padding-bottom: 4rem;
     border-style: solid;
     border-color: #8d6562;
     display: flex;
@@ -47,7 +46,7 @@ body {
     color: white;
     display: flex;
     justify-content: space-around;
-    align-items: flex-end;
+    align-items: center;
   }
 .footer-heading-1 {
     color: black;
