@@ -365,9 +365,21 @@ body {
 
 .dish {
         font-size: 25px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        top: 377%;
+        left: 45%;
     }
-.dish-p, .dish-p-2 {
+.dish-p {
         font-size: 20px;
+        position: absolute;
+        width: 40%;
+        height: 30%;
+        display: flex;
+        justify-content: center;
+        top: 380%;
+        left: 43%;
     }
       
 .mice {
