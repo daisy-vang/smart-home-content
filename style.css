@@ -5,6 +5,7 @@
 body {
     background-color: #f8f4e6;
     width: 100%;
+    height: auto;
   }
 
 .navbar ul {
@@ -39,9 +40,8 @@ body {
     align-items: flex-end;
     justify-content: center;
     position: absolute;
-    bottom: 100%;
-    left: 0%;
-  }
+    bottom: 50%;
+}
 .footer {
     background-color: #ab8885;
     width: 100%;
