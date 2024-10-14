@@ -465,6 +465,10 @@ body {
     }
 .water-p {
         font-size: 20px;
+        position: absolute;
+        left: 10%;
+        top: 60%;
+        width: 45%;
     }
       
 .water-rats-p {
