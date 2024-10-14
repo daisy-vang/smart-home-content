@@ -1078,13 +1078,6 @@ body {
     justify-content: center;
 }
 
-.img-chairs {
-    top: 200%;
-    left: 10%;
-    width: 30%;
-    height: 31%;
-}
-
 .img-fire-alarm, .img-water-rats, .img-snakes {
     width: 50%;
     height: 25%;
