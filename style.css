@@ -423,6 +423,12 @@ body {
     border-color: #9fb5bc;
     z-index: -1;
     position: absolute;
+    width: 80%;
+    height: 30%;
+    top: 80%;
+    left: 15%;
+    display: flex;
+    justify-content: center;
     }
 
 .rectangle-6 {
@@ -431,6 +437,12 @@ body {
         border-color: #9fb5bc;
         z-index: -1;
         position: absolute;
+        width: 80%;
+        height: 30%;
+        top: 120%;
+        left: 15%;
+        display: flex;
+        justify-content: center;
     }
 
 .rectangle-7 {
