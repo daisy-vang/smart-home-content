@@ -398,30 +398,75 @@ body {
       
 .fireplace {
         font-size: 25px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        top: 33%;
+        left: 45%;
     }
 .fireplace-p {
         font-size: 20px;
+        position: absolute;
+        width: 40%;
+        height: 30%;
+        display: flex;
+        justify-content: center;
+        top: 40%;
+        left: 43%;
     }
       
 .poem {
         font-size: 25px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        top: 73%;
+        left: 45%;
     }
 .poem-p {
         font-size: 20px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        top: 80%;
+        left: 43%;
+        width: 40%;
     }
       
 .music {
         font-size: 25px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        left: 45%;
+        top: 112%;
     }
 .music-p {
         font-size: 20px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        left: 43%;
+        top: 118%;
+        width: 40%;
     }
       
 .chairs {
         font-size: 25px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        left: 45%;
+        top: 152%;
     }
 .chairs-p {
         font-size: 20px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        left: 43%;
+        top: 158%;
+        width: 40%;
     }
       
 .glass {
