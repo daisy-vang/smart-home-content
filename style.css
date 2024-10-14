@@ -51,6 +51,7 @@ body {
     color: black;
     display: flex;
     flex-direction: column;
+    align-items: center;
     margin-right: 4rem;
     width: 15%;
   }
@@ -66,6 +67,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
+    align-items: center;
     color: black;
     text-decoration: none;
     margin-bottom: 0.5rem;
