@@ -359,6 +359,8 @@ body {
         z-index: -1;
         position: absolute;
         margin: 0%;
+        display: flex;
+        justify-content: center;
         }
 
 .rectangle-2 {
@@ -366,11 +368,13 @@ body {
     border-style: solid;
     border-color: #9fb5bc;
     height: 8%;
-    width: 100%;
+    width: 70%;
     z-index: -1;
     position: absolute;
     top: 142%;
     left: 0%;
+    display: flex;
+    justify-content: center;
     }
 
 .rectangle-3 {
@@ -378,11 +382,13 @@ body {
     border-style: solid;
     border-color: #9fb5bc;
     height: 8%;
-    width: 100%;
+    width: 70%;
     z-index: -1;
     position: absolute;
     top: 150%;
     left: 0%;
+    display: flex;
+    justify-content: center;
     }
 
 .rectangle-4 {
