@@ -324,13 +324,13 @@ body {
         font-size: 25px;
         position: absolute;
         left: 13%;
-        top: 320%;
+        top: 332%;
     }
 .beds-p {
         font-size: 20px;
         position: absolute;
         left: 11%;
-        top: 322%;
+        top: 336%;
         width: 20%;
     }
 
@@ -338,28 +338,28 @@ body {
         font-size: 25px;
         font-size: 25px;
         position: absolute;
-        top: 230%;
+        top: 332%;
         left: 43%;
     }
 .baths-p {
         font-size: 20px;
         position: absolute;
         left: 40%;
-        top: 332%;
+        top: 336%;
         width: 20%;
     }
 
 .sprink {
         font-size: 25px;
         position: absolute;
-        top: 320%;
+        top: 332%;
         left: 76%;
     }
 .sprink-p {
         font-size: 20px;
         position: absolute;
         left: 74%;
-        top: 322%;
+        top: 336%;
         width: 20%;
     }
 
