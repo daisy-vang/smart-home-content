@@ -157,18 +157,25 @@ body {
         height: 30%;
         display: flex;
         justify-content: center;
-        top: 36%;
+        top: 40%;
         left: 46%;
     }
 
 .memory-tapes {
-        font-size: 30px;
-    }
-.memory-p {
         font-size: 25px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        top: 73%;
+        left: 48%;
     }
-.memory-p-2 {
-        font-size: 25px;
+.memory-p, .memory-p-2 {
+        font-size: 20px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        top: 80%;
+        left: 46%;
     }
 
 .self {
