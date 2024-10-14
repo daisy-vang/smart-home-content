@@ -92,7 +92,7 @@ body {
   }
 
 .title-details {
-    left: 15%
+    text-indent: 45px;
     }
 .title {
         display: flex;
@@ -369,7 +369,7 @@ body {
             width: 70%;
             z-index: -1;
             position: absolute;
-            top: 144%;
+            top: 143%;
             left: 15%;
             display: flex;
             justify-content: center;
