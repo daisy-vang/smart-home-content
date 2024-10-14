@@ -594,6 +594,7 @@ body {
 .addins-n {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .rectangle-1 {
@@ -1082,6 +1083,8 @@ body {
 .img-glass {
     width: 50%;
     height: 25%;
+    display: flex;
+    
 }
 
 .img-media {
