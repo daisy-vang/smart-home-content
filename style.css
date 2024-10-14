@@ -39,7 +39,7 @@ body {
     align-items: flex-end;
     justify-content: center;
     position: absolute;
-    bottom: 0%;
+    bottom: 100%;
     left: 0%;
   }
 .footer {
