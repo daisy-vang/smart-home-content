@@ -17,7 +17,7 @@ body {
     border-color: #ab8885;
     display: flex;
     justify-content: space-around;
-    width: 100;
+    width: 100%;
   }
 .navbar a {
     color: white;
