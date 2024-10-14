@@ -1056,7 +1056,6 @@ body {
 
 .img-water {
     display: flex;
-    justify-content: flex-end;
     flex-direction: row-reverse;
     width: 50%;
     height: 25%;
