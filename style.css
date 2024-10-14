@@ -437,6 +437,13 @@ body {
     justify-content: center;
     }
 
+.img-memory {
+    position: absolute;
+    top: 70%;
+    left: 10%;
+    z-index: -1;
+    }
+
 .rectangle-6 {
         background-color: #cadde3;
         border-style: solid;
@@ -445,10 +452,17 @@ body {
         position: absolute;
         width: 80%;
         height: 30%;
-        top: 120%;
+        top: 100%;
         left: 10%;
         display: flex;
         justify-content: center;
+    }
+
+.img-self {
+    position: absolute;
+    top: 100%;
+    left: 15%;
+    z-index: -1;
     }
 
 .rectangle-7 {
