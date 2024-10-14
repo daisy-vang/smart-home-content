@@ -526,7 +526,7 @@ body {
         background-color: #cadde3;
         border-style: solid;
         border-color: #9fb5bc;
-        z-index: -1;
+        z-index: -2;
         width: 26.6%;
         height: 60%;
         position: absolute;
@@ -547,7 +547,7 @@ body {
         background-color: #cadde3;
         border-style: solid;
         border-color: #9fb5bc;
-        z-index: -1;
+        z-index: -2;
         position: absolute;
         top: 160%;
         left: 36.6%;
@@ -568,7 +568,7 @@ body {
         background-color: #cadde3;
         border-style: solid;
         border-color: #9fb5bc;
-        z-index: -1;
+        z-index: -2;
         position: absolute;
         top: 160%;
         left: 68.2%;
@@ -589,7 +589,7 @@ body {
         background-color: #cadde3;
         border-style: solid;
         border-color: #9fb5bc;
-        z-index: -1;
+        z-index: -2;
         position: absolute;
         width: 26.6%;
         height: 60%;
@@ -610,7 +610,7 @@ body {
         background-color: #cadde3;
         border-style: solid;
         border-color: #9fb5bc;
-        z-index: -1;
+        z-index: -2;
         position: absolute;
         top: 230%;
         left: 36.6%;
@@ -623,7 +623,7 @@ body {
         top: 233%;
         left: 38.6;
         z-index: -1;
-        width: 22.6%;
+        width: 38.6%;
         height: 25%;
       }
 
@@ -631,7 +631,7 @@ body {
         background-color: #cadde3;
         border-style: solid;
         border-color: #9fb5bc;
-        z-index: -1;
+        z-index: -2;
         position: absolute;
         top: 230%;
         left: 68.2%;
@@ -652,7 +652,7 @@ body {
         background-color: #cadde3;
         border-style: solid;
         border-color: #9fb5bc;
-        z-index: -1;
+        z-index: -2;
         position: absolute;
         width: 26.6%;
         height: 60%;
@@ -664,6 +664,7 @@ body {
         position: absolute;
         width: 26.6%;
         height: 60%;
+        z-index: -1;
         top: 300%;
         left: 7%;
       }
@@ -672,7 +673,7 @@ body {
         background-color: #cadde3;
         border-style: solid;
         border-color: #9fb5bc;
-        z-index: -1;
+        z-index: -2;
         position: absolute;
         top: 300%;
         left: 36.6%;
@@ -684,6 +685,7 @@ body {
         position: absolute;
         top: 300%;
         left: 38.6%;
+        z-index: -1;
         width: 26.6%;
         height: 60%;
       }
@@ -692,7 +694,7 @@ body {
         background-color: #cadde3;
         border-style: solid;
         border-color: #9fb5bc;
-        z-index: -1;
+        z-index: -2;
         position: absolute;
         top: 300%;
         left: 68.2%;
@@ -704,6 +706,7 @@ body {
         position: absolute;
         top: 300%;
         left: 70.2%;
+        z-index: -1;
         width: 26.6%;
         height: 60%;
       }
