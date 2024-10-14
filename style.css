@@ -785,6 +785,15 @@ body {
     justify-content: center;
 }
 
+.img-fireplace {
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    z-index: -1;
+    width: 30%;
+    height: 31%;
+}
+
 .rectangle-21 {
     background-color: #cadde3;
     border-style: solid;
@@ -797,6 +806,15 @@ body {
     left: 10%;
     display: flex;
     justify-content: center;
+}
+
+.img-poem {
+    position: absolute;
+    top: 70%;
+    left: 10%;
+    z-index: -1;
+    width: 30%;
+    height: 31%;
 }
 
 .rectangle-22 {
@@ -813,6 +831,15 @@ body {
     justify-content: center;
 }
 
+.img-music {
+    position: absolute;
+    top: 110%;
+    left: 10%;
+    z-index: -1;
+    width: 30%;
+    height: 31%;
+}
+
 .rectangle-23 {
     background-color: #cadde3;
     border-style: solid;
@@ -825,4 +852,13 @@ body {
     left: 10%;
     display: flex;
     justify-content: center;
+}
+
+.img-chairs {
+    position: absolute;
+    top: 150%;
+    left: 10%;
+    z-index: -1;
+    width: 30%;
+    height: 31%;
 }
