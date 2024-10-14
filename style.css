@@ -111,6 +111,10 @@ body {
     line-height: 2;
 }
 
+.e-p {
+    line-height: 1.7;
+}
+
 .title {
         display: flex;
         justify-content: center;
