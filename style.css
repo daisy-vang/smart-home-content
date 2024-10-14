@@ -522,19 +522,25 @@ body {
     height: 31%;
     }
 
-.rectangle-7, .rectangle-8 {
+.rectangle-7 {
         background-color: #cadde3;
         border-style: solid;
         border-color: #9fb5bc;
         z-index: -1;
         width: 26.6%;
         height: 60%;
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
+        position: absolute;
+        top: 160%;
+        left: 5%;
     }
 
-
+.rectangle-8 {
+        background-color: #cadde3;
+        border-style: solid;
+        border-color: #9fb5bc;
+        z-index: -1;
+        position: absolute;
+    }
 
 .rectangle-9 {
         background-color: #cadde3;
