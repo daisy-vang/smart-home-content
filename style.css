@@ -1105,3 +1105,11 @@ body {
     top: 260%;
     height: 50%;
 }
+
+.img-chairs {
+    position: absolute;
+    left: 10%;
+    top: 100%;
+    height: 31%;
+    width: 30%;
+}
