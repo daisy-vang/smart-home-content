@@ -94,6 +94,8 @@ body {
 .A-T-p, .A-T {
     text-indent: 17%;
     position: absolute;
+    display: flex;
+    flex-direction: row;
     }
 
 .title {
