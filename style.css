@@ -418,7 +418,8 @@ body {
   }
 
 .img-brain { 
-    top:30%;
+    position: absolute;
+    top:20%;
     left: 10%;
     }
 
