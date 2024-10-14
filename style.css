@@ -1040,7 +1040,6 @@ body {
 }
 
 .img-chairs {
-    position: absolute;
     top: 150%;
     left: 10%;
     z-index: -1;
@@ -1054,7 +1053,6 @@ body {
 }
 
 .img-water {
-    position: absolute;
     left: 50%;
     width: 50%;
     height: 25%;
@@ -1066,7 +1064,6 @@ body {
 }
 
 .img-robot {
-    position: absolute;
     left: 50%;
     width: 50%;
     height: 25%;
@@ -1083,7 +1080,6 @@ body {
 }
 
 .img-media {
-    position: absolute;
     left: 50%;
     width: 50%;
     height: 25%;
