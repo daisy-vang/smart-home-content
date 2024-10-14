@@ -229,7 +229,7 @@ body {
         display: flex;
         justify-content: center;
         position: absolute;
-        top: 345%;
+        top: 375%;
         left: 40%;
     }
 
@@ -723,5 +723,5 @@ body {
         height: 30%;
         width: 80%;
         left: 15%;
-        top: 365%;
+        top: 395%;
       }
