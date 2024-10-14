@@ -139,6 +139,7 @@ body {
 .auto-tech {
         display: flex;
         justify-content: center;
+        text-indent: 2px;
     }
 .brain {
         font-size: 30px;
