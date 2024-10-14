@@ -350,7 +350,7 @@ body {
     justify-content: center;
 }
 
-.rectangle-1, .rectangle-2, .rectangle-3 {
+.rectangle-1 {
         background-color: #cadde3;
         border-style: solid;
         border-color: #9fb5bc;
@@ -358,10 +358,35 @@ body {
         width: 70%;
         z-index: -1;
         position: absolute;
-        display: flex;
-        justify-content: center;
-        flex-direction: column;
-        align-content: center;
+        left: 45%;
+        }
+
+.rectangle-2 {
+            background-color: #cadde3;
+            border-style: solid;
+            border-color: #9fb5bc;
+            height: 8%;
+            width: 70%;
+            z-index: -1;
+            position: absolute;
+            top: 142%;
+            left: 0%;
+            display: flex;
+            justify-content: center;
+        }
+        
+.rectangle-3 {
+            background-color: #cadde3;
+            border-style: solid;
+            border-color: #9fb5bc;
+            height: 8%;
+            width: 70%;
+            z-index: -1;
+            position: absolute;
+            top: 150%;
+            left: 0%;
+            display: flex;
+            justify-content: center;
         }
 
 .rectangle-4 {
