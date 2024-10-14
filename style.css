@@ -358,6 +358,7 @@ body {
         z-index: -1;
         position: absolute;
         margin: 0%;
+        gap: 10px;
         }
 
 .rectangle-2 {
@@ -370,6 +371,7 @@ body {
     position: absolute;
     top: 142%;
     left: 0%;
+    gap: 10px;
     }
 
 .rectangle-3 {
@@ -382,6 +384,7 @@ body {
     position: absolute;
     top: 150%;
     left: 0%;
+    gap: 10px;
     }
 
 .rectangle-4 {
