@@ -771,7 +771,7 @@ body {
     height: 31%;
 }
 
-.rectangle-22 {
+.rectangle-20 {
     background-color: #cadde3;
     border-style: solid;
     border-color: #9fb5bc;
@@ -780,6 +780,20 @@ body {
     width: 80%;
     height: 30%;
     top: 30%;
+    left: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.rectangle-21 {
+    background-color: #cadde3;
+    border-style: solid;
+    border-color: #9fb5bc;
+    z-index: -2;
+    position: absolute;
+    width: 80%;
+    height: 30%;
+    top: 70%;
     left: 10%;
     display: flex;
     justify-content: center;
