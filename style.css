@@ -53,6 +53,7 @@ body {
     flex-direction: column;
     margin-right: 4rem;
     width: 20%;
+    align-items: flex-end;
   }
 .footer-heading-2 {
     color: black;
@@ -63,7 +64,6 @@ body {
     margin-bottom: 2rem;
   }
 .footer-heading-3 {
-    color: black;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
