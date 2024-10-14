@@ -1084,17 +1084,15 @@ body {
 
 .img-glass {
     width: 50%;
-    height: 25%;
     display: flex;
     position: absolute;
-    top: 310%;
+    top: 300%;
     left: 0%;
 }
 
 .img-media {
     transform: translate(100%);    
     width: 50%;
-    height: 25%;
     position: absolute;
     top: 315%;
 }
