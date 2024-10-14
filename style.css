@@ -441,7 +441,7 @@ body {
 .fire-alarm {
         font-size: 30px;
         display: flex;
-        justify-content: space-around;
+        justify-content: space-between;
     }
 .fire-alarm-p {
         font-size: 20px;
