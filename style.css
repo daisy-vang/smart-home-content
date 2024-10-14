@@ -38,6 +38,8 @@ body {
     background-color: #ab8885;
     border-style: solid;
     border-color: #8d6562;
+    position: absolute;
+    top: auto;
 }
 .footer {
     background-color: #ab8885;
