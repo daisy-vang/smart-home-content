@@ -871,6 +871,57 @@ body {
     top: 410%;
 }
 
+.img-mice {
+    position: absolute;
+    top: 410%;
+    left: 10%;
+    z-index: -1;
+    width: 30%;
+    height: 31%;
+}
+
+.rectangle-18 {
+    background-color: #cadde3;
+    border-style: solid;
+    border-color: #9fb5bc;
+    z-index: -2;
+    position: absolute;
+    height: 30%;
+    width: 80%;
+    left: 10%;
+    top: 445%;
+}
+
+.img-incen {
+    position: absolute;
+    top: 445%;
+    left: 10%;
+    z-index: -1;
+    width: 30%;
+    height: 31%;
+}
+
+.rectangle-19 {
+    background-color: #cadde3;
+    border-style: solid;
+    border-color: #9fb5bc;
+    z-index: -2;
+    position: absolute;
+    height: 30%;
+    width: 80%;
+    left: 10%;
+    top: 480%;
+}
+
+.img-rat {
+    position: absolute;
+    top: 480%;
+    left: 10%;
+    z-index: -1;
+    width: 30%;
+    height: 31%;
+}
+
 .rectangle-20 {
     background-color: #cadde3;
     border-style: solid;
