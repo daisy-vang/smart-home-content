@@ -36,6 +36,8 @@ body {
     padding-bottom: 4rem;
     border-style: solid;
     border-color: #8d6562;
+    display: flex;
+    align-items: flex-end;
   }
 .footer {
     background-color: #ab8885;
