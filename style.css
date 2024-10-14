@@ -1055,8 +1055,8 @@ body {
 }
 
 .img-water {
-    display: flex;
-    flex-direction: row-reverse;
+    position: absolute;
+    left: 50%;
     width: 50%;
     height: 25%;
 }
@@ -1067,8 +1067,8 @@ body {
 }
 
 .img-robot {
-    display: flex;
-    justify-content: flex-end;
+    position: absolute;
+    left: 50%;
     width: 50%;
     height: 25%;
 }
@@ -1084,8 +1084,8 @@ body {
 }
 
 .img-media {
-    display: flex;
-    justify-content: flex-end;
+    position: absolute;
+    left: 50%;
     width: 50%;
     height: 25%;
 }
